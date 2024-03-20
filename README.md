@@ -1,2 +1,10 @@
 # python_basic_1
-python programming for big data application
+
+
+# python programing for big data
+
+* git add
+* git commit -m
+* git push
+* git pull
+# 
